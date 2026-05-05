@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sararunkel.github.io/handbook-baxkis/sitemap.xml
